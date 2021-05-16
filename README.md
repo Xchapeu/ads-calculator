@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um Sistema de cadastro de anúncios, que cadastra e mostra uma projecão de quantidade visualizações, cliques e compartilhamentos baseado no valor investido.
+Um Sistema de cadastro de anúncios, que cadastra e mostra uma projecão de quantidade de visualizações, cliques e compartilhamentos baseado no valor investido.
 
 ## 🚀 Como executar
 

@@ -9,6 +9,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
+- [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [sqlite](https://www.sqlite.org/index.html)
 

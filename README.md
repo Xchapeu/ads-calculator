@@ -4,6 +4,8 @@
   <a href="#-como-executar">Como executar</a>
 </p>
 
+
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -13,9 +15,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [sqlite](https://www.sqlite.org/index.html)
 
+
+
+
+
 ## 💻 Projeto
 
 Um Sistema de cadastro de anúncios, que cadastra e mostra uma projecão de quantidade de visualizações, cliques e compartilhamentos baseado no valor investido.
+
+
+
+
 
 ## 🚀 Como executar
 
